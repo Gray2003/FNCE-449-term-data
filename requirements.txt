@@ -1,0 +1,8 @@
+#Please install the following packages:
+
+gdown==4.6.3
+openpyxl
+pandas
+scikit-learn
+numpy
+matplotlib
