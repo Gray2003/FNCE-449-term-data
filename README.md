@@ -8,6 +8,7 @@ Before running the file, go to terminal and run the command "pip install -r requ
 The original file is the jupyter notebook file including raw data and some other information that is deemed not significant for the model
 The finalized model is the .py file with instruction on whichcode did what commented above the codes
 requirements.txt is the installing requirement needed to run the project
-the dataset file contains all of the original raw data used by the model
+the dataset file contains all of the original raw data used by the model and all the data is stored in the dataset
 .DS_Store is created after downloading and unzip so I don't think it is included
-regression_input is created whenever the code runs
+regression_input is created whenever the code runs and stored the tables including all regression variables for the model
+Graph represents the actual EPS, consensus analysts' EPS, and our prediction model EPS to get an easier view of our predictor's accuracy
